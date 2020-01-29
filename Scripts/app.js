@@ -12,12 +12,9 @@
     }
 
     window.addEventListener("load", Start);
-
-
-
-
     //Call back function in line (Annonynmous function)
-    /*window.addEventListener("load", function(){
+    /*
+    window.addEventListener("load", function(){
         let myLocalVariable = 0;
         console.log(`App Started ... ${myFunctionalVariable}`);
     });
@@ -25,5 +22,6 @@
         let myLocalVariable = 0;
         console.log(`App Started ... ${myFunctionalVariable}`);
     });
-*/
+    */
+
 })();
